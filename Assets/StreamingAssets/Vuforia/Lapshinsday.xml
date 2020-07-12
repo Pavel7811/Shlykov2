@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="0-1_Tienda_Shlykov" size="0.500000 0.375000" />
+    <ImageTarget name="0-1_Park_Sasha" size="0.500000 0.666667" />
+    <ImageTarget name="0-3_Gymnasium_Shlykov" size="0.500000 0.375000" />
+    <ImageTarget name="0-2_Gymnasium_Shlykov" size="0.500000 0.270972" />
+    <ImageTarget name="0-1_Gymnasium_Shlykov" size="0.500000 0.375000" />
+    <ImageTarget name="0-4_Shlykov_House" size="0.500000 0.666667" />
+    <ImageTarget name="0-2_Shlykov_House" size="0.500000 0.666667" />
+    <ImageTarget name="0-3_Shlykov_House" size="0.500000 0.666667" />
+    <ImageTarget name="0-1_Shlykov_House" size="0.500000 0.375000" />
+    <ImageTarget name="PublicMeeting_0" size="0.500000 0.469458" />
+    <ImageTarget name="Mishin_1" size="0.500000 0.396484" />
+    <ImageTarget name="Mishin_0" size="0.500000 0.322266" />
+    <ImageTarget name="Lapshin_3" size="0.500000 0.437373" />
+    <ImageTarget name="Lapshin_2" size="0.500000 0.415126" />
+    <ImageTarget name="Lapshin_1" size="0.500000 0.437373" />
+    <ImageTarget name="Lapshin_0" size="0.500000 0.375000" />
+    <ImageTarget name="Gymnasium_0" size="0.500000 0.374815" />
+    <ImageTarget name="Bank_0" size="0.500000 0.434852" />
+  </Tracking>
+</QCARConfig>
